@@ -1,3 +1,9 @@
+### Simple POS Terminal program
+
+Part of my C++ course at UWGB.
+
+> Check bottom of the page for a disclaimer.
+
 ## Home menu:
 
 The POS system will have two different sets of menus. One menu is for the customers who come to the store to buy products. The other is for the administrator who runs the store. Imagine that the store runs by the administrator who can add new products and is interested to see report at his/her discretion. Therefore, you need to implement the initial menu as follows:
@@ -37,3 +43,38 @@ In the admin menu, you need to implement the following menu items:
 ```
 Upon exiting the admin menu, the program should go back to the home menu.You need to consider the user-friendly navigation for the user. Remember that adding multiple items may take the user to the bottom of the screen and he/she may need to scroll back to the initial menu items displayed in the beginning. Therefore, allow user to view the exit option always. If the user wants to go back to the sale mode even though he/she selected the pay option from the customer menu, you program needs to be flexible to do so. Further sale item may be added upon the user’s discretion. Don’t let the user to type the product name. Imagine the user who came to buy products is none but you. So provide flexibility and user friendly navigation as if you were buying through the POS system.You can use vectors/arrays to store your information, however design smartly so that it can accommodate future changes.
 
+
+
+
+
+
+
+### Disclaimer
+
+This disclaimer ("Disclaimer") sets forth the general guidelines, disclosures, and terms of your use of the github.com/tyanakiev/SimplePOSTerminal/ website ("Website"), "SimplePOSTerminal" mobile application ("Mobile Application") and any of their related products and services (collectively, "Services"). This Disclaimer is a legally binding agreement between you ("User", "you" or "your") and this Website operator and Mobile Application developer ("Operator", "we", "us" or "our"). By accessing and using the Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Disclaimer. If you are entering into this Disclaimer on behalf of a business or other legal entity, you represent that you have the authority to bind such entity to this Disclaimer, in which case the terms "User", "you" or "your" shall refer to such entity. If you do not have such authority, or if you do not agree with the terms of this Disclaimer, you must not accept this Disclaimer and may not access and use the Services. You acknowledge that this Disclaimer is a contract between you and the Operator, even though it is electronic and is not physically signed by you, and it governs your use of the Services. This disclaimer was created with the help of the disclaimer generator.
+
+## Representation
+
+Any views or opinions represented on the Services are personal and belong solely to the Operator and do not represent those of people, institutions or organizations that the Operator may or may not be associated with in professional or personal capacity unless explicitly stated. Any views or opinions are not intended to malign any religion, ethnic group, club, organization, company, or individual.
+
+## Content and postings
+
+You may print or copy any part of the Services for your personal or non-commercial use.
+
+## Indemnification and warranties
+
+While we have made every attempt to ensure that the information contained on the Services is correct, the Operator is not responsible for any errors or omissions, or for the results obtained from the use of this information. All information on the Services is provided "as is", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information, and without warranty of any kind, express or implied. In no event will the Operator be liable to you or anyone else for any decision made or action taken in reliance on the information on the Services, or for any consequential, special or similar damages, even if advised of the possibility of such damages. Information contained on the Services are subject to change at any time and without warning.
+
+## Changes and amendments
+
+We reserve the right to modify this Disclaimer or its terms relating to the Services at any time, effective upon posting of an updated version of this Disclaimer on the Services. When we do, we will revise the updated date at the bottom of this page. Continued use of the Services after any such changes shall constitute your consent to such changes.
+
+## Acceptance of this disclaimer
+
+You acknowledge that you have read this Disclaimer and agree to all its terms and conditions. By accessing and using the Services you agree to be bound by this Disclaimer. If you do not agree to abide by the terms of this Disclaimer, you are not authorized to access or use the Services.
+
+## Contacting us
+
+If you have any questions about this Disclaimer, please contact us.
+
+This document was last updated on March 7, 2021
