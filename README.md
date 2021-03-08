@@ -43,15 +43,16 @@ In the admin menu, you need to implement the following menu items:
 ```
 Upon exiting the admin menu, the program should go back to the home menu.You need to consider the user-friendly navigation for the user. Remember that adding multiple items may take the user to the bottom of the screen and he/she may need to scroll back to the initial menu items displayed in the beginning. Therefore, allow user to view the exit option always. If the user wants to go back to the sale mode even though he/she selected the pay option from the customer menu, you program needs to be flexible to do so. Further sale item may be added upon the user’s discretion. Don’t let the user to type the product name. Imagine the user who came to buy products is none but you. So provide flexibility and user friendly navigation as if you were buying through the POS system.You can use vectors/arrays to store your information, however design smartly so that it can accommodate future changes.
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
+# Disclaimer
 
-
-
-
-
-### Disclaimer
-
-This disclaimer ("Disclaimer") sets forth the general guidelines, disclosures, and terms of your use of the github.com/tyanakiev/SimplePOSTerminal/ website ("Website"), "SimplePOSTerminal" mobile application ("Mobile Application") and any of their related products and services (collectively, "Services"). This Disclaimer is a legally binding agreement between you ("User", "you" or "your") and this Website operator and Mobile Application developer ("Operator", "we", "us" or "our"). By accessing and using the Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Disclaimer. If you are entering into this Disclaimer on behalf of a business or other legal entity, you represent that you have the authority to bind such entity to this Disclaimer, in which case the terms "User", "you" or "your" shall refer to such entity. If you do not have such authority, or if you do not agree with the terms of this Disclaimer, you must not accept this Disclaimer and may not access and use the Services. You acknowledge that this Disclaimer is a contract between you and the Operator, even though it is electronic and is not physically signed by you, and it governs your use of the Services. This disclaimer was created with the help of the disclaimer generator.
+This disclaimer ("Disclaimer") sets forth the general guidelines, disclosures, and terms of your use of the github.com/tyanakiev/SimplePOSTerminal/ website ("Website"), "SimplePOSTerminal" application and any of their related products and services (collectively, "Services"). This Disclaimer is a legally binding agreement between you ("User", "you" or "your") and this Website operator and developer ("Operator", "we", "us" or "our"). By accessing and using the Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Disclaimer. If you are entering into this Disclaimer on behalf of a business or other legal entity, you represent that you have the authority to bind such entity to this Disclaimer, in which case the terms "User", "you" or "your" shall refer to such entity. If you do not have such authority, or if you do not agree with the terms of this Disclaimer, you must not accept this Disclaimer and may not access and use the Services. You acknowledge that this Disclaimer is a contract between you and the Operator, even though it is electronic and is not physically signed by you, and it governs your use of the Services. This disclaimer was created with the help of the disclaimer generator.
 
 ## Representation
 
