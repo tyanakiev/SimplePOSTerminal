@@ -39,7 +39,7 @@ In the admin menu, you need to implement the following menu items:
 2.Displayname and units of highest sold itemin each category
 3.Display name and sales volume for highest sold itemin each category
 4.Displayname and units of lowest sold item in each category
-5..Display name and sales volume for lowest sold item in each category
+5.Display name and sales volume for lowest sold item in each category
 ```
 Upon exiting the admin menu, the program should go back to the home menu.You need to consider the user-friendly navigation for the user. Remember that adding multiple items may take the user to the bottom of the screen and he/she may need to scroll back to the initial menu items displayed in the beginning. Therefore, allow user to view the exit option always. If the user wants to go back to the sale mode even though he/she selected the pay option from the customer menu, you program needs to be flexible to do so. Further sale item may be added upon the user’s discretion. Don’t let the user to type the product name. Imagine the user who came to buy products is none but you. So provide flexibility and user friendly navigation as if you were buying through the POS system.You can use vectors/arrays to store your information, however design smartly so that it can accommodate future changes.
 
